@@ -1,1 +1,1 @@
-<h1>Repositório com projetos React do André CIntra</h1>
+<h1>Repositório com projetos React do André Cintra</h1>
